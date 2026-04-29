@@ -43,8 +43,8 @@ export default function Footer() {
                 Emergency
               </h4>
               <p className="text-white/60 text-xs mb-1">24/7 Offshore Emergency Line:</p>
-              <a href="tel:+61290010099" className="text-gold font-semibold text-sm hover:text-gold-light transition-colors">
-                +61 2 9001 0099
+              <a href="tel:+61 468 133 680" className="text-gold font-semibold text-sm hover:text-gold-light transition-colors">
+                +61 468 133 680
               </a>
             </div>
           </div>
