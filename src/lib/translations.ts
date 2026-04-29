@@ -223,12 +223,12 @@ const en = {
     },
     contact: {
       title: 'Contact',
-      address: 'Level 32, 1 Macquarie Place\nSydney NSW 2000, Australia',
-      phone: '+61 2 9001 0000',
-      email: 'info@jaruzka-drilling.com',
-      emergency: '24/7 Emergency: +61 2 9001 0099',
+      address: '281 George Street Surry Hills,\n Sydney, NSW 2010 Australia',
+      phone: '+61 468 133 680',
+      email: 'slavicj0@seznam.cz',
+      emergency: '24/7 Emergency: +61 468 133 680',
     },
-    copyright: '© 2026 Jaruzka Sea and Ocean Drilling Company Ltd. All rights reserved. Reg. No. 123 456 789',
+    copyright: '© 2026 Jaruzka Sea and Ocean Drilling Company Ltd. All rights reserved. Reg. No. 702 594 308',
     legal2: 'Privacy Policy',
     legal3: 'Terms of Use',
   },
@@ -597,35 +597,23 @@ const en = {
       success: 'Thank you — your message has been sent. We\'ll respond within 2 business days.',
     },
     offices: {
-      title: 'Our Offices',
+      title: 'Our Office',
       items: [
         {
           city: 'Sydney',
           label: 'Head Office',
-          address: 'Level 32, 1 Macquarie Place\nSydney NSW 2000\nAustralia',
-          phone: '+61 2 9001 0000',
-          email: 'info@jaruzka-drilling.com',
+          address: '281 George Street \n Surry  Hills, Sydney,\n NSW 2010 Australia',
+          phone: '+61 468 133 680',
+          email: 'slavicj0@seznam.cz',
         },
-        {
-          city: 'Perth',
-          label: 'Operations Office',
-          address: 'Level 12, 225 St Georges Terrace\nPerth WA 6000\nAustralia',
-          phone: '+61 8 9001 0000',
-          email: 'perth@jaruzka-drilling.com',
-        },
-        {
-          city: 'Darwin',
-          label: 'Northern Operations',
-          address: '16 Bennet Street\nDarwin NT 0800\nAustralia',
-          phone: '+61 8 8901 0000',
-          email: 'darwin@jaruzka-drilling.com',
-        },
+       
+        
       ],
     },
     emergency: {
       title: '24/7 Emergency Line',
       desc: 'For offshore emergencies, well control, or critical incidents:',
-      phone: '+61 2 9001 0099',
+      phone: '+61 468 133 680',
     },
   },
   common: {
